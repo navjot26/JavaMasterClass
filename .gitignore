@@ -1,0 +1,12 @@
+# IDEs
+.DS_Store
+.classpath
+.project
+.settings
+.idea
+*.iml
+*.iws
+*.ser
+*.jfr
+*.ipr
+*.ctxt
